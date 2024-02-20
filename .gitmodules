@@ -1,0 +1,3 @@
+[submodule "ziggify-frontend"]
+	path = ziggify-frontend
+	url = https://github.com/PeytenBevill/ziggify-frontend
