@@ -4,3 +4,6 @@
 [submodule "ziggify-backend"]
 	path = ziggify-backend
 	url = https://github.com/PeytenBevill/ziggify-backend
+[submodule "ziggify-app"]
+	path = ziggify-app
+	url = https://github.com/PeytenBevill/ziggify-app
